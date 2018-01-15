@@ -160,7 +160,7 @@
 .about-us p {
 	text-align: center;
 	font-size: 1em;
-	padding: 10px;
+	padding-bottom: 20px;
 	margin: 0px 200px;
 }
 
@@ -173,10 +173,16 @@
 }
 
 .cont p {
-	font-size: 1em;
+	font-size: 1.2em;
 	text-align: center;
+	padding: 10px;
+	margin: 0px auto;
 }
 
 .cont ul {
 	text-align: center;
+}
+
+.uni img{
+	margin-bottom: 20px; 
 }
